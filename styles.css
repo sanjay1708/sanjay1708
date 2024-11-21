@@ -11,7 +11,7 @@ body {
 header {
     padding: 20px;
     border-bottom: 3px solid black;
-    text-align: center;
+    text-align: right;
 }
 
 header h1 {
