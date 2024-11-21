@@ -11,7 +11,7 @@ body {
 header {
     padding: 20px;
     border-bottom: 3px solid black;
-    text-align: right; /* Aligns the header to the right */
+    text-align:left;
 }
 
 header h1 {
